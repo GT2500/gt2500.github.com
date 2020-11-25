@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 姓名：李文涛（Tao Li）
+#### 学历：本科 （undergraduate）
+#### 邮箱：1580846439@qq.com
+#### 地址:上海市金山区石化街道临潮一村   Jinshan District,Shanghai
+#### 对自己说；People can be mediocre for a while ,but it doesn't mean that they will always be mediocre.
+####          I hope today I am a little better than I was yesterday.
 
-You can use the [editor on GitHub](https://github.com/GT2500/gt2500.github.com/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GT2500/gt2500.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 最新消息
+1.小菜鸡开始搞汉化了，vs，resharper都好难，也许我不如别人，但我不甘心在这止步。
+### 研究方向
+——网络安全
+——防火墙
+——代码加密
+### 荣誉奖励
+——小奖不好意思说，期待我能填上这里的一天
+### 学校
+——浙江万里学院
+### 个人爱好
+——励志成为网络空间安全工程师
+——日本动漫（伤心时总的找点能安慰下自己的东西）
+——足球、网球（都是业余）
