@@ -1,9 +1,19 @@
-### 个人信息
-#### 姓名：李文涛（Tao Li）
-#### 学历：本科 （undergraduate）
-#### 邮箱：1580846439@qq.com
-#### 地址:上海市金山区石化街道临潮一村   Jinshan District,Shanghai
-#### 对自己说；People can be mediocre for a while ,but it doesn't mean that they will always be mediocre.
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>李文涛</h1>
+      <p><b></b></p>本科
+      <p><b>浙江万里学院信息与智能工程学院/b></p>
+      <p><b>邮箱：1580846439@qq.com>
+      <p><b>地址：上海市金山区海丰路126号</b></p>
+    </td>
+    <td width="25%">
+      <img src="timg.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+#### 对自己说；People can be mediocre for a while ,but it doesn't mean that they will always be mediocre.      
 ####          I hope today I am a little better than I was yesterday.
 
 ### 最新消息
