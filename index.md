@@ -1,17 +1,17 @@
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>李文涛</h1>
-      <p><b></b></p>本科
-      <p><b>浙江万里学院信息与智能工程学院/b></p>
-      <p><b>邮箱：1580846439@qq.com>
-      <p><b>地址：上海市金山区海丰路126号</b></p>
-    </td>
-    <td width="25%">
-      <img src="timg.jpg" width="100%">      % 插入证件照代码
-    </td>
-  </tr>
-</table>
+ <table border="0">
+   <tr>
+     <td width="75%">
+       <h1>李文涛</h1>
+       <p><b></b></p>本科
+       <p><b>浙江万里学院信息与智能工程学院/b></p>
+       <p><b>邮箱：1580846439@qq.com>
+       <p><b>地址：上海市金山区海丰路126号</b></p>
+     </td>
+     <td width="25%">
+       <img src="timg.jpg" width="100%">      % 插入证件照代码
+     </td>
+   </tr>
+ </table>
 
 
 
